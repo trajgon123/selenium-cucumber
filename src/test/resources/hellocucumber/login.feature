@@ -11,5 +11,5 @@ Feature: Login user
 
     Examples:
       | alias     | password       | isLogged |
-      | solotest2 | Heslo321       | true     |
+      | solotest2 | qzeuiqzwieqwie | true     |
       | Friday    | qzeuiqzwieqwie | false    |
